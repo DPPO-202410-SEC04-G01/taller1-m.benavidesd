@@ -1,6 +1,7 @@
 package uniandes.dpoo.gasolinera.logica;
 
 /**
+ * 
  * Esta clase representa a un empleado de la gasolinería que recauda el dinero producto de las ventas
  */
 public class Empleado
